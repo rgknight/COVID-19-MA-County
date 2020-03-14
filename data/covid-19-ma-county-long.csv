@@ -1,0 +1,313 @@
+Province/State,Country/Region,Lat,Long,date,cases
+"Worcester, MA",US,42.4097,-71.8571,1/22/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,1/22/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,1/22/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,1/22/2020,0
+"Norfolk County, MA",US,42.1767,-71.1449,1/22/2020,0
+"Essex, MA",US,42.632,-70.7829,1/22/2020,0
+"Worcester, MA",US,42.4097,-71.8571,1/23/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,1/23/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,1/23/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,1/23/2020,0
+"Norfolk County, MA",US,42.1767,-71.1449,1/23/2020,0
+"Essex, MA",US,42.632,-70.7829,1/23/2020,0
+"Worcester, MA",US,42.4097,-71.8571,1/24/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,1/24/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,1/24/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,1/24/2020,0
+"Norfolk County, MA",US,42.1767,-71.1449,1/24/2020,0
+"Essex, MA",US,42.632,-70.7829,1/24/2020,0
+"Worcester, MA",US,42.4097,-71.8571,1/25/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,1/25/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,1/25/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,1/25/2020,0
+"Norfolk County, MA",US,42.1767,-71.1449,1/25/2020,0
+"Essex, MA",US,42.632,-70.7829,1/25/2020,0
+"Worcester, MA",US,42.4097,-71.8571,1/26/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,1/26/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,1/26/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,1/26/2020,0
+"Norfolk County, MA",US,42.1767,-71.1449,1/26/2020,0
+"Essex, MA",US,42.632,-70.7829,1/26/2020,0
+"Worcester, MA",US,42.4097,-71.8571,1/27/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,1/27/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,1/27/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,1/27/2020,0
+"Norfolk County, MA",US,42.1767,-71.1449,1/27/2020,0
+"Essex, MA",US,42.632,-70.7829,1/27/2020,0
+"Worcester, MA",US,42.4097,-71.8571,1/28/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,1/28/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,1/28/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,1/28/2020,0
+"Norfolk County, MA",US,42.1767,-71.1449,1/28/2020,0
+"Essex, MA",US,42.632,-70.7829,1/28/2020,0
+"Worcester, MA",US,42.4097,-71.8571,1/29/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,1/29/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,1/29/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,1/29/2020,0
+"Norfolk County, MA",US,42.1767,-71.1449,1/29/2020,0
+"Essex, MA",US,42.632,-70.7829,1/29/2020,0
+"Worcester, MA",US,42.4097,-71.8571,1/30/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,1/30/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,1/30/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,1/30/2020,0
+"Norfolk County, MA",US,42.1767,-71.1449,1/30/2020,0
+"Essex, MA",US,42.632,-70.7829,1/30/2020,0
+"Worcester, MA",US,42.4097,-71.8571,1/31/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,1/31/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,1/31/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,1/31/2020,0
+"Norfolk County, MA",US,42.1767,-71.1449,1/31/2020,0
+"Essex, MA",US,42.632,-70.7829,1/31/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/1/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/1/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/1/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/1/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/1/2020,0
+"Essex, MA",US,42.632,-70.7829,2/1/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/2/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/2/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/2/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/2/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/2/2020,0
+"Essex, MA",US,42.632,-70.7829,2/2/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/3/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/3/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/3/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/3/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/3/2020,0
+"Essex, MA",US,42.632,-70.7829,2/3/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/4/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/4/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/4/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/4/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/4/2020,0
+"Essex, MA",US,42.632,-70.7829,2/4/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/5/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/5/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/5/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/5/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/5/2020,0
+"Essex, MA",US,42.632,-70.7829,2/5/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/6/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/6/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/6/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/6/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/6/2020,0
+"Essex, MA",US,42.632,-70.7829,2/6/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/7/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/7/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/7/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/7/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/7/2020,0
+"Essex, MA",US,42.632,-70.7829,2/7/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/8/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/8/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/8/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/8/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/8/2020,0
+"Essex, MA",US,42.632,-70.7829,2/8/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/9/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/9/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/9/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/9/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/9/2020,0
+"Essex, MA",US,42.632,-70.7829,2/9/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/10/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/10/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/10/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/10/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/10/2020,0
+"Essex, MA",US,42.632,-70.7829,2/10/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/11/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/11/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/11/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/11/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/11/2020,0
+"Essex, MA",US,42.632,-70.7829,2/11/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/12/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/12/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/12/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/12/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/12/2020,0
+"Essex, MA",US,42.632,-70.7829,2/12/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/13/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/13/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/13/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/13/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/13/2020,0
+"Essex, MA",US,42.632,-70.7829,2/13/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/14/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/14/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/14/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/14/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/14/2020,0
+"Essex, MA",US,42.632,-70.7829,2/14/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/15/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/15/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/15/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/15/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/15/2020,0
+"Essex, MA",US,42.632,-70.7829,2/15/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/16/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/16/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/16/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/16/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/16/2020,0
+"Essex, MA",US,42.632,-70.7829,2/16/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/17/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/17/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/17/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/17/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/17/2020,0
+"Essex, MA",US,42.632,-70.7829,2/17/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/18/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/18/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/18/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/18/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/18/2020,0
+"Essex, MA",US,42.632,-70.7829,2/18/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/19/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/19/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/19/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/19/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/19/2020,0
+"Essex, MA",US,42.632,-70.7829,2/19/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/20/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/20/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/20/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/20/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/20/2020,0
+"Essex, MA",US,42.632,-70.7829,2/20/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/21/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/21/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/21/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/21/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/21/2020,0
+"Essex, MA",US,42.632,-70.7829,2/21/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/22/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/22/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/22/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/22/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/22/2020,0
+"Essex, MA",US,42.632,-70.7829,2/22/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/23/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/23/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/23/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/23/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/23/2020,0
+"Essex, MA",US,42.632,-70.7829,2/23/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/24/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/24/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/24/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/24/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/24/2020,0
+"Essex, MA",US,42.632,-70.7829,2/24/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/25/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/25/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/25/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/25/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/25/2020,0
+"Essex, MA",US,42.632,-70.7829,2/25/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/26/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/26/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/26/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/26/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/26/2020,0
+"Essex, MA",US,42.632,-70.7829,2/26/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/27/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/27/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/27/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/27/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/27/2020,0
+"Essex, MA",US,42.632,-70.7829,2/27/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/28/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/28/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/28/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/28/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/28/2020,0
+"Essex, MA",US,42.632,-70.7829,2/28/2020,0
+"Worcester, MA",US,42.4097,-71.8571,2/29/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,2/29/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,2/29/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,2/29/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,2/29/2020,0
+"Essex, MA",US,42.632,-70.7829,2/29/2020,0
+"Worcester, MA",US,42.4097,-71.8571,3/1/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,3/1/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,3/1/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,3/1/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,3/1/2020,0
+"Essex, MA",US,42.632,-70.7829,3/1/2020,0
+"Worcester, MA",US,42.4097,-71.8571,3/2/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,3/2/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,3/2/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,3/2/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,3/2/2020,0
+"Essex, MA",US,42.632,-70.7829,3/2/2020,0
+"Worcester, MA",US,42.4097,-71.8571,3/3/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,3/3/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,3/3/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,3/3/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,3/3/2020,1
+"Essex, MA",US,42.632,-70.7829,3/3/2020,0
+"Worcester, MA",US,42.4097,-71.8571,3/4/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,3/4/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,3/4/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,3/4/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,3/4/2020,1
+"Essex, MA",US,42.632,-70.7829,3/4/2020,0
+"Worcester, MA",US,42.4097,-71.8571,3/5/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,3/5/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,3/5/2020,0
+"Suffolk County, MA",US,42.3601,-71.0589,3/5/2020,1
+"Norfolk County, MA",US,42.1767,-71.1449,3/5/2020,1
+"Essex, MA",US,42.632,-70.7829,3/5/2020,0
+"Worcester, MA",US,42.4097,-71.8571,3/6/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,3/6/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,3/6/2020,1
+"Suffolk County, MA",US,42.3601,-71.0589,3/6/2020,3
+"Norfolk County, MA",US,42.1767,-71.1449,3/6/2020,2
+"Essex, MA",US,42.632,-70.7829,3/6/2020,0
+"Worcester, MA",US,42.4097,-71.8571,3/7/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,3/7/2020,0
+"Middlesex County, MA",US,42.4672,-71.2874,3/7/2020,1
+"Suffolk County, MA",US,42.3601,-71.0589,3/7/2020,3
+"Norfolk County, MA",US,42.1767,-71.1449,3/7/2020,2
+"Essex, MA",US,42.632,-70.7829,3/7/2020,0
+"Worcester, MA",US,42.4097,-71.8571,3/8/2020,0
+"Berkshire County, MA",US,42.3118,-73.1822,3/8/2020,1
+"Middlesex County, MA",US,42.4672,-71.2874,3/8/2020,7
+"Suffolk County, MA",US,42.3601,-71.0589,3/8/2020,8
+"Norfolk County, MA",US,42.1767,-71.1449,3/8/2020,6
+"Essex, MA",US,42.632,-70.7829,3/8/2020,0
+"Worcester, MA",US,42.4097,-71.8571,3/9/2020,1
+"Berkshire County, MA",US,42.3118,-73.1822,3/9/2020,5
+"Middlesex County, MA",US,42.4672,-71.2874,3/9/2020,15
+"Suffolk County, MA",US,42.3601,-71.0589,3/9/2020,10
+"Norfolk County, MA",US,42.1767,-71.1449,3/9/2020,10
+"Essex, MA",US,42.632,-70.7829,3/9/2020,0
+"Worcester, MA",US,42.4097,-71.8571,3/10/2020,1
+"Berkshire County, MA",US,42.3118,-73.1822,3/10/2020,7
+"Middlesex County, MA",US,42.4672,-71.2874,3/10/2020,41
+"Suffolk County, MA",US,42.3601,-71.0589,3/10/2020,20
+"Norfolk County, MA",US,42.1767,-71.1449,3/10/2020,22
+"Essex, MA",US,42.632,-70.7829,3/10/2020,1
+"Worcester, MA",US,42.4097,-71.8571,3/11/2020,1
+"Berkshire County, MA",US,42.3118,-73.1822,3/11/2020,7
+"Middlesex County, MA",US,42.4672,-71.2874,3/11/2020,44
+"Suffolk County, MA",US,42.3601,-71.0589,3/11/2020,19
+"Norfolk County, MA",US,42.1767,-71.1449,3/11/2020,23
+"Essex, MA",US,42.632,-70.7829,3/11/2020,1
+"Worcester, MA",US,42.4097,-71.8571,3/12/2020,1
+"Berkshire County, MA",US,42.3118,-73.1822,3/12/2020,9
+"Middlesex County, MA",US,42.4672,-71.2874,3/12/2020,49
+"Suffolk County, MA",US,42.3601,-71.0589,3/12/2020,22
+"Norfolk County, MA",US,42.1767,-71.1449,3/12/2020,24
+"Essex, MA",US,42.632,-70.7829,3/12/2020,2
+"Worcester, MA",US,42.4097,-71.8571,3/13/2020,2
+"Berkshire County, MA",US,42.3118,-73.1822,3/13/2020,9
+"Middlesex County, MA",US,42.4672,-71.2874,3/13/2020,60
+"Suffolk County, MA",US,42.3601,-71.0589,3/13/2020,26
+"Norfolk County, MA",US,42.1767,-71.1449,3/13/2020,24
+"Essex, MA",US,42.632,-70.7829,3/13/2020,2
