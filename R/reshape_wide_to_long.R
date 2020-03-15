@@ -6,7 +6,7 @@ wide <- read_csv('data/covid-19-ma-county-wide.csv')
 
 long <- wide %>%
   gather(date, total_cases, 
-         -`Province/State`, -`Country/Region`, -Lat, -Long) %>%
+         -`County`, -`State`, -Lat, -Long) %>%
   mutate(
     date=as.Date(date, "%m/%d/%Y"),
     new_cases = total_cases - lag(total_cases)
