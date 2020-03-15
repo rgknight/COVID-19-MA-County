@@ -8,7 +8,10 @@ long <- wide %>%
   gather(date, total_cases, 
          -`County`, -`State`, -Lat, -Long) %>%
   mutate(
-    date=as.Date(date, "%m/%d/%Y"),
+    date=as.Date(date, "%m/%d/%Y")
+  ) %>%
+  order_by(County, date) %>%
+  mutate(
     new_cases = total_cases - lag(total_cases)
     ) %>%
   write_csv('data/covid-19-ma-county-long.csv', na='')
