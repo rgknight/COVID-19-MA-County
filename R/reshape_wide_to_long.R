@@ -10,7 +10,7 @@ long <- wide %>%
   mutate(
     date=as.Date(date, "%m/%d/%Y")
   ) %>%
-  order_by(County, date) %>%
+  arrange(County, date) %>%
   mutate(
     new_cases = total_cases - lag(total_cases)
     ) %>%
