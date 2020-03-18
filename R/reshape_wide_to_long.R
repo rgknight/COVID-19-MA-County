@@ -30,3 +30,25 @@ json <- split(no_county_data[ , -1], no_county_data$County) %>%
 file_con <- file('data/covid-19-ma-county.json')
 writeLines(json, file_con)
 close(file_con)
+
+# Analyze statewide
+
+statewide_raw <- read_csv('data/statewide_data.csv', col_types =
+  cols(
+    date = col_date("%m/%d/%Y"),
+    hospitalizations = col_double(),
+    community_transmission = col_double(),
+    tests_conducted = col_double(),
+    tests_positive = col_double()
+  )
+)
+
+statewide_analysis <- statewide_raw %>%
+  mutate(percent_positive = tests_positive / tests_conducted) %>%
+  gather(measure, count, -date) %>%
+  arrange(measure, date) %>%
+  mutate(dod_change = count - lag(count))
+
+
+
+
