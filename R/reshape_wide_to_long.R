@@ -12,7 +12,8 @@ long <- wide %>%
   ) %>%
   arrange(County, date) %>%
   mutate(
-    new_cases = total_cases - lag(total_cases)
+    new_cases = total_cases - lag(total_cases),
+    percent_growth = round(100*(new_cases / lag(total_cases)),2)
     ) %>%
   write_csv('data/covid-19-ma-county-long.csv', na='')
 
