@@ -25,5 +25,8 @@ no_county_data <- long %>%
   select(-Lat, -Long, -State)
 
 json <- split(no_county_data[ , -1], no_county_data$County) %>%
-  toJSON(prety=TRUE) %>%
-  write_json('data/covid-19-ma-county.json')
+  toJSON(prety=TRUE)
+
+file_con <- file('data/covid-19-ma-county.json')
+writeLines(json, file_con)
+close(file_con)
