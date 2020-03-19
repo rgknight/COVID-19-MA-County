@@ -19,16 +19,19 @@ long <- wide %>%
     ) %>%
   write_csv('data/covid-19-ma-county-long.csv', na='')
 
+long %>% filter(date > as.Date("2020-03-10")) %>% View()
+
 # Create json
 # Leaving out the county-level info bc it's R to manipulate in R
 no_county_data <- long %>%
   select(-Lat, -Long, -State)
 
-json <- split(no_county_data[ , -1], no_county_data$County) %>%
-  toJSON(prety=TRUE)
+json_list <- list()
+json_list$counties <- list(split(no_county_data[ , -1], no_county_data$County)) 
+json <- toJSON(json_list, prety=TRUE)
 
 file_con <- file('data/covid-19-ma-county.json')
-writeLines(paste0("[", json, "]"), file_con)
+writeLines(json, file_con)
 close(file_con)
 
 # Analyze statewide
@@ -48,6 +51,8 @@ statewide_analysis <- statewide_raw %>%
   gather(measure, count, -date) %>%
   arrange(measure, date) %>%
   mutate(dod_change = count - lag(count))
+
+View(statewide_analysis)
 
 
 
