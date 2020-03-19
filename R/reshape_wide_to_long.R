@@ -41,7 +41,7 @@ for (county_data in counties_list) {
 }
 
 json_str <- glue_collapse(json_list, sep=",")
-txt <- paste0('{"counties": [', json_str, "]\\}" )
+txt <- paste0('{"counties": [', json_str, "]}" )
 file_con <- file('data/covid-19-ma-county.json')
 writeLines(txt, file_con)
 close(file_con)
