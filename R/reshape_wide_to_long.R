@@ -2,6 +2,8 @@ library(tidyr)
 library(readr)
 library(dplyr)
 library(jsonlite)
+library(purrr)
+library(glue)
 
 wide <- read_csv('data/covid-19-ma-county-wide.csv')
 
@@ -26,12 +28,22 @@ long %>% filter(date > as.Date("2020-03-10")) %>% View()
 no_county_data <- long %>%
   select(-Lat, -Long, -State)
 
-json_list <- list()
-json_list$counties <- list(split(no_county_data[ , -1], no_county_data$County)) 
-json <- toJSON(json_list, prety=TRUE)
+counties_list <- split(no_county_data[ , -1], no_county_data$County)
 
+json_list <- list()
+i = 1
+for (county_data in counties_list) {
+  county_i_list <- list()
+  county_i_list$county <- names(counties_list)[i]
+  county_i_list$data <- county_data
+  json_list[i] <-toJSON(county_i_list, pretty=TRUE)
+  i <- i +1
+}
+
+json_str <- glue_collapse(json_list, sep=",")
+txt <- paste0('{"counties": [', json_str, "]\\}" )
 file_con <- file('data/covid-19-ma-county.json')
-writeLines(json, file_con)
+writeLines(txt, file_con)
 close(file_con)
 
 # Analyze statewide
