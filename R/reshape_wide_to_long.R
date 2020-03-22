@@ -15,6 +15,7 @@ long <- wide %>%
     date=as.Date(date, "%m/%d/%Y")
   ) %>%
   arrange(County, date) %>%
+  group_by(County) %>%
   mutate(
     new_cases = total_cases - lag(total_cases),
     percent_growth = round(100*(new_cases / lag(total_cases)),2)
@@ -53,16 +54,34 @@ statewide_raw <- read_csv('data/statewide_data.csv', col_types =
     date = col_date("%m/%d/%Y"),
     hospitalizations = col_double(),
     community_transmission = col_double(),
-    tests_conducted = col_double(),
-    tests_positive = col_double()
+    public_lab_tests = col_double(),
+    public_lab_positive = col_double(),
+    private_lab_positive = col_double(),
+    private_lab_tests = col_double()
   )
 )
 
 statewide_analysis <- statewide_raw %>%
-  mutate(percent_positive = tests_positive / tests_conducted) %>%
-  gather(measure, count, -date) %>%
+  mutate(
+    tests_conducted = public_lab_tests + private_lab_tests,
+    tests_positive = public_lab_positive + private_lab_positive
+    ) %>%
+  gather(measure, total, -date) %>%
   arrange(measure, date) %>%
-  mutate(dod_change = count - lag(count))
+  group_by(measure) %>%
+  mutate(
+    new = total - lag(total),
+    percent_change = new / lag(total)
+    ) %>%
+  gather(measure2, value, total, new, percent_change) %>%
+  unite("key", measure, measure2) %>%
+  spread(key, value) %>%
+  mutate(
+    tests_percent_positive_total = tests_positive_total / tests_conducted_total,
+    tests_percent_positive_new = tests_positive_new / tests_conducted_new
+  )
+
+
 
 View(statewide_analysis)
 

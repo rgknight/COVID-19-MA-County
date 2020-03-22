@@ -299,6 +299,12 @@
       "total_cases": 9,
       "new_cases": 4,
       "percent_growth": 80
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 11,
+      "new_cases": 2,
+      "percent_growth": 22.22
     }
   ]
 },{
@@ -306,9 +312,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -9,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -611,6 +615,12 @@
       "total_cases": 20,
       "new_cases": 2,
       "percent_growth": 11.11
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 21,
+      "new_cases": 1,
+      "percent_growth": 5
     }
   ]
 },{
@@ -618,9 +628,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -20,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -917,6 +925,315 @@
       "total_cases": 6,
       "new_cases": 0,
       "percent_growth": 0
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 14,
+      "new_cases": 8,
+      "percent_growth": 133.33
+    }
+  ]
+},{
+  "county": ["Dukes and Nantucket"],
+  "data": [
+    {
+      "date": "2020-01-22",
+      "total_cases": 0
+    },
+    {
+      "date": "2020-01-23",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-01-24",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-01-25",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-01-26",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-01-27",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-01-28",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-01-29",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-01-30",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-01-31",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-01",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-02",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-03",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-04",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-05",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-06",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-07",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-08",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-09",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-10",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-11",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-12",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-13",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-14",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-15",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-16",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-17",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-18",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-19",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-20",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-21",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-22",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-23",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-24",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-25",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-26",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-27",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-28",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-02-29",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-01",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-02",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-03",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-04",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-05",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-06",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-07",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-08",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-09",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-10",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-11",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-12",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-13",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-14",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-15",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-16",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-17",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-18",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-19",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-20",
+      "total_cases": 0,
+      "new_cases": 0
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 1,
+      "new_cases": 1
     }
   ]
 },{
@@ -924,9 +1241,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -6,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -1227,6 +1542,12 @@
       "total_cases": 29,
       "new_cases": 10,
       "percent_growth": 52.63
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 41,
+      "new_cases": 12,
+      "percent_growth": 41.38
     }
   ]
 },{
@@ -1234,9 +1555,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -29,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -1529,6 +1848,12 @@
       "total_cases": 1,
       "new_cases": 0,
       "percent_growth": 0
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 2,
+      "new_cases": 1,
+      "percent_growth": 100
     }
   ]
 },{
@@ -1536,9 +1861,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -1,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -1834,6 +2157,12 @@
       "total_cases": 3,
       "new_cases": 0,
       "percent_growth": 0
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 9,
+      "new_cases": 6,
+      "percent_growth": 200
     }
   ]
 },{
@@ -1841,9 +2170,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -3,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -2135,6 +2462,12 @@
       "total_cases": 2,
       "new_cases": 1,
       "percent_growth": 100
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 2,
+      "new_cases": 0,
+      "percent_growth": 0
     }
   ]
 },{
@@ -2142,9 +2475,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -2,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -2483,6 +2814,12 @@
       "total_cases": 413,
       "new_cases": 85,
       "percent_growth": 25.91
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 525,
+      "new_cases": 112,
+      "percent_growth": 27.12
     }
   ]
 },{
@@ -2490,9 +2827,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -413,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -2797,6 +3132,12 @@
       "total_cases": 144,
       "new_cases": 25,
       "percent_growth": 21.01
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 177,
+      "new_cases": 33,
+      "percent_growth": 22.92
     }
   ]
 },{
@@ -2804,9 +3145,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -144,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -3114,6 +3453,12 @@
       "total_cases": 64,
       "new_cases": 12,
       "percent_growth": 23.08
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 69,
+      "new_cases": 5,
+      "percent_growth": 7.81
     }
   ]
 },{
@@ -3121,9 +3466,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -64,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -3419,6 +3762,12 @@
       "total_cases": 11,
       "new_cases": 6,
       "percent_growth": 120
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 20,
+      "new_cases": 9,
+      "percent_growth": 81.82
     }
   ]
 },{
@@ -3426,9 +3775,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -11,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -3767,6 +4114,12 @@
       "total_cases": 86,
       "new_cases": 14,
       "percent_growth": 19.44
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 108,
+      "new_cases": 22,
+      "percent_growth": 25.58
     }
   ]
 },{
@@ -3774,9 +4127,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -86,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -4071,6 +4422,12 @@
       "total_cases": 19,
       "new_cases": 6,
       "percent_growth": 46.15
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 26,
+      "new_cases": 7,
+      "percent_growth": 36.84
     }
   ]
 },{
@@ -4078,9 +4435,7 @@
   "data": [
     {
       "date": "2020-01-22",
-      "total_cases": 0,
-      "new_cases": -19,
-      "percent_growth": -100
+      "total_cases": 0
     },
     {
       "date": "2020-01-23",
@@ -4382,6 +4737,12 @@
       "total_cases": 19,
       "new_cases": 5,
       "percent_growth": 35.71
+    },
+    {
+      "date": "2020-03-21",
+      "total_cases": 24,
+      "new_cases": 5,
+      "percent_growth": 26.32
     }
   ]
 }]}
