@@ -311,6 +311,12 @@
       "total_cases": 24,
       "new_cases": 13,
       "percent_growth": 118.18
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 30,
+      "new_cases": 6,
+      "percent_growth": 25
     }
   ]
 },{
@@ -633,6 +639,12 @@
       "total_cases": 23,
       "new_cases": 2,
       "percent_growth": 9.52
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 26,
+      "new_cases": 3,
+      "percent_growth": 13.04
     }
   ]
 },{
@@ -949,6 +961,12 @@
       "total_cases": 24,
       "new_cases": 10,
       "percent_growth": 71.43
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 25,
+      "new_cases": 1,
+      "percent_growth": 4.17
     }
   ]
 },{
@@ -1255,6 +1273,12 @@
     },
     {
       "date": "2020-03-22",
+      "total_cases": 1,
+      "new_cases": 0,
+      "percent_growth": 0
+    },
+    {
+      "date": "2020-03-23",
       "total_cases": 1,
       "new_cases": 0,
       "percent_growth": 0
@@ -1578,6 +1602,12 @@
       "total_cases": 60,
       "new_cases": 19,
       "percent_growth": 46.34
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 73,
+      "new_cases": 13,
+      "percent_growth": 21.67
     }
   ]
 },{
@@ -1887,6 +1917,12 @@
     },
     {
       "date": "2020-03-22",
+      "total_cases": 2,
+      "new_cases": 0,
+      "percent_growth": 0
+    },
+    {
+      "date": "2020-03-23",
       "total_cases": 2,
       "new_cases": 0,
       "percent_growth": 0
@@ -2205,6 +2241,12 @@
       "total_cases": 12,
       "new_cases": 3,
       "percent_growth": 33.33
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 15,
+      "new_cases": 3,
+      "percent_growth": 25
     }
   ]
 },{
@@ -2516,6 +2558,12 @@
       "total_cases": 12,
       "new_cases": 10,
       "percent_growth": 500
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 6,
+      "new_cases": -6,
+      "percent_growth": -50
     }
   ]
 },{
@@ -2874,6 +2922,12 @@
       "total_cases": 646,
       "new_cases": 121,
       "percent_growth": 23.05
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 777,
+      "new_cases": 131,
+      "percent_growth": 20.28
     }
   ]
 },{
@@ -3198,6 +3252,12 @@
       "total_cases": 199,
       "new_cases": 22,
       "percent_growth": 12.43
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 232,
+      "new_cases": 33,
+      "percent_growth": 16.58
     }
   ]
 },{
@@ -3525,6 +3585,12 @@
       "total_cases": 75,
       "new_cases": 6,
       "percent_growth": 8.7
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 82,
+      "new_cases": 7,
+      "percent_growth": 9.33
     }
   ]
 },{
@@ -3840,6 +3906,12 @@
       "total_cases": 25,
       "new_cases": 5,
       "percent_growth": 25
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 32,
+      "new_cases": 7,
+      "percent_growth": 28
     }
   ]
 },{
@@ -4198,6 +4270,12 @@
       "total_cases": 126,
       "new_cases": 18,
       "percent_growth": 16.67
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 154,
+      "new_cases": 28,
+      "percent_growth": 22.22
     }
   ]
 },{
@@ -4512,6 +4590,12 @@
       "total_cases": 34,
       "new_cases": 8,
       "percent_growth": 30.77
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 57,
+      "new_cases": 23,
+      "percent_growth": 67.65
     }
   ]
 },{
@@ -4833,6 +4917,12 @@
       "total_cases": 37,
       "new_cases": 13,
       "percent_growth": 54.17
+    },
+    {
+      "date": "2020-03-23",
+      "total_cases": 42,
+      "new_cases": 5,
+      "percent_growth": 13.51
     }
   ]
 }],
@@ -5580,6 +5670,16 @@
       "deaths_total": 4827,
       "deaths_percent_change": 0.1972,
       "cases_2_day_avg_new": 6271.5
+    },
+    {
+      "date": "2020-03-23",
+      "cases_new": 5560,
+      "deaths_new": 649,
+      "cases_total": 59138,
+      "cases_percent_change": 0.1038,
+      "deaths_total": 5476,
+      "deaths_percent_change": 0.1345,
+      "cases_2_day_avg_new": 6058.5
     }
   ]
 },{
@@ -6326,6 +6426,16 @@
       "deaths_total": 4827,
       "deaths_percent_change": 0.1972,
       "cases_2_day_avg_new": 6271.5
+    },
+    {
+      "date": "2020-04-13",
+      "cases_new": 5560,
+      "deaths_new": 649,
+      "cases_total": 59138,
+      "cases_percent_change": 0.1038,
+      "deaths_total": 5476,
+      "deaths_percent_change": 0.1345,
+      "cases_2_day_avg_new": 6058.5
     }
   ]
 },{
@@ -7072,6 +7182,16 @@
       "deaths_total": 4827,
       "deaths_percent_change": 0.1972,
       "cases_2_day_avg_new": 6271.5
+    },
+    {
+      "date": "2020-04-06",
+      "cases_new": 5560,
+      "deaths_new": 649,
+      "cases_total": 59138,
+      "cases_percent_change": 0.1038,
+      "deaths_total": 5476,
+      "deaths_percent_change": 0.1345,
+      "cases_2_day_avg_new": 6058.5
     }
   ]
 },{
@@ -7672,6 +7792,16 @@
       "deaths_total": 5,
       "deaths_percent_change": 5,
       "cases_2_day_avg_new": 116.5
+    },
+    {
+      "date": "2020-03-23",
+      "cases_new": 131,
+      "deaths_new": 9,
+      "cases_total": 777,
+      "cases_percent_change": 20.28,
+      "deaths_total": 9,
+      "deaths_percent_change": 9,
+      "cases_2_day_avg_new": 126
     }
   ]
 },{
@@ -8431,6 +8561,16 @@
       "deaths_total": 104,
       "deaths_percent_change": 0.0097,
       "cases_2_day_avg_new": 122.5
+    },
+    {
+      "date": "2020-03-23",
+      "cases_new": 64,
+      "deaths_new": 9,
+      "cases_total": 8961,
+      "cases_percent_change": 0.0072,
+      "deaths_total": 113,
+      "deaths_percent_change": 0.0865,
+      "cases_2_day_avg_new": 81
     }
   ]
 }]}

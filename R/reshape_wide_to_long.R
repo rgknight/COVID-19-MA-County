@@ -35,18 +35,12 @@ statewide_raw <- read_csv('data/statewide_data.csv', col_types =
     date = col_date("%m/%d/%Y"),
     hospitalizations = col_double(),
     community_transmission = col_double(),
-    public_lab_tests = col_double(),
-    public_lab_positive = col_double(),
-    private_lab_positive = col_double(),
-    private_lab_tests = col_double()
+    tests_conducted = col_double(),
+    tests_positive = col_double()
   )
 )
 
 statewide_analysis <- statewide_raw %>%
-  mutate(
-    tests_conducted = public_lab_tests + private_lab_tests,
-    tests_positive = public_lab_positive + private_lab_positive
-    ) %>%
   gather(measure, total, -date) %>%
   arrange(measure, date) %>%
   group_by(measure) %>%
@@ -177,7 +171,7 @@ ggplot(
 
 ggplot(
   country_data %>% filter(
-    location %in% c("Massachusetts", "Italy Two Weeks Ago"),
+    location %in% c("Massachusetts", "Italy Two Weeks Ago", "Italy Three Weeks Ago"),
     date >= as.Date("2020-03-01"),
     date <= as.Date("2020-03-22")
   )
