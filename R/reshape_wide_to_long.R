@@ -219,7 +219,7 @@ for (item in split_list) {
 }
 
 json_str <- glue_collapse(json_list, sep=",")
-country_comp_txt <- paste0('\n"country-comparison": [', json_str, "]}" )
+country_comp_txt <- paste0('\n"countrycomp": [', json_str, "]}" )
 
 full_text <- paste0(county_txt, country_comp_txt)
 file_con <- file('data/covid-19-ma-county.json')
