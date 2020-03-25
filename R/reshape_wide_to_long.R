@@ -128,8 +128,8 @@ ma_comp_data <- ma_total_data %>%
   left_join(ma_death_data) %>%
   mutate(
     deaths_total = coalesce(deaths_total, 0),
-    deaths_new = coalesce(deaths_total, 0),
-    deaths_percent_change = coalesce(deaths_total, 0)
+    deaths_new = coalesce(deaths_new, 0),
+    deaths_percent_change = coalesce(deaths_percent_change, 0)
   )
 
 italy_data <- select_countries %>% 
@@ -159,21 +159,22 @@ country_data <- bind_rows(
     cases_2_day_avg_new = (cases_new + lag(cases_new)) / 2
   )
 
-ggplot(
-  country_data %>% filter(
-  location %in% c("Massachusetts", "Italy Two Weeks Ago"),
-  date >= as.Date("2020-03-01"),
-  date <= as.Date("2020-03-22")
-  )
-  ) +
-  geom_line(aes(x=date, y=cases_new, colour=location))
+
+# ggplot(
+#   country_data %>% filter(
+#   location %in% c("Massachusetts", "Italy Two Weeks Ago"),
+#   date >= as.Date("2020-03-01"),
+#   date <= Sys.Date()
+#   )
+#   ) +
+#   geom_line(aes(x=date, y=cases_new, colour=location))
 
 
 ggplot(
   country_data %>% filter(
-    location %in% c("Massachusetts", "Italy Two Weeks Ago", "Italy Three Weeks Ago"),
+    location %in% c("Massachusetts", "Italy Three Weeks Ago", "Italy Two Weeks Ago"),
     date >= as.Date("2020-03-01"),
-    date <= as.Date("2020-03-22")
+    date <= Sys.Date()
   )
 ) +
   geom_line(aes(x=date, y=deaths_new, colour=location))

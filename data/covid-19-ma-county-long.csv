@@ -61,6 +61,7 @@ Barnstable,Massachusetts,,,2020-03-20,9,4,80
 Barnstable,Massachusetts,,,2020-03-21,11,2,22.22
 Barnstable,Massachusetts,,,2020-03-22,24,13,118.18
 Barnstable,Massachusetts,,,2020-03-23,30,6,25
+Barnstable,Massachusetts,,,2020-03-24,40,10,33.33
 Berkshire,Massachusetts,42.3118,-73.1822,2020-01-22,0,,
 Berkshire,Massachusetts,42.3118,-73.1822,2020-01-23,0,0,NaN
 Berkshire,Massachusetts,42.3118,-73.1822,2020-01-24,0,0,NaN
@@ -123,6 +124,7 @@ Berkshire,Massachusetts,42.3118,-73.1822,2020-03-20,20,2,11.11
 Berkshire,Massachusetts,42.3118,-73.1822,2020-03-21,21,1,5
 Berkshire,Massachusetts,42.3118,-73.1822,2020-03-22,23,2,9.52
 Berkshire,Massachusetts,42.3118,-73.1822,2020-03-23,26,3,13.04
+Berkshire,Massachusetts,42.3118,-73.1822,2020-03-24,37,11,42.31
 Bristol,Massachusetts,,,2020-01-22,0,,
 Bristol,Massachusetts,,,2020-01-23,0,0,NaN
 Bristol,Massachusetts,,,2020-01-24,0,0,NaN
@@ -185,6 +187,7 @@ Bristol,Massachusetts,,,2020-03-20,6,0,0
 Bristol,Massachusetts,,,2020-03-21,14,8,133.33
 Bristol,Massachusetts,,,2020-03-22,24,10,71.43
 Bristol,Massachusetts,,,2020-03-23,25,1,4.17
+Bristol,Massachusetts,,,2020-03-24,31,6,24
 Dukes and Nantucket,Massachusetts,,,2020-01-22,0,,
 Dukes and Nantucket,Massachusetts,,,2020-01-23,0,0,NaN
 Dukes and Nantucket,Massachusetts,,,2020-01-24,0,0,NaN
@@ -247,6 +250,7 @@ Dukes and Nantucket,Massachusetts,,,2020-03-20,0,0,NaN
 Dukes and Nantucket,Massachusetts,,,2020-03-21,1,1,Inf
 Dukes and Nantucket,Massachusetts,,,2020-03-22,1,0,0
 Dukes and Nantucket,Massachusetts,,,2020-03-23,1,0,0
+Dukes and Nantucket,Massachusetts,,,2020-03-24,2,1,100
 Essex,Massachusetts,42.632,-70.7829,2020-01-22,0,,
 Essex,Massachusetts,42.632,-70.7829,2020-01-23,0,0,NaN
 Essex,Massachusetts,42.632,-70.7829,2020-01-24,0,0,NaN
@@ -309,6 +313,7 @@ Essex,Massachusetts,42.632,-70.7829,2020-03-20,29,10,52.63
 Essex,Massachusetts,42.632,-70.7829,2020-03-21,41,12,41.38
 Essex,Massachusetts,42.632,-70.7829,2020-03-22,60,19,46.34
 Essex,Massachusetts,42.632,-70.7829,2020-03-23,73,13,21.67
+Essex,Massachusetts,42.632,-70.7829,2020-03-24,118,45,61.64
 Franklin,Massachusetts,,,2020-01-22,0,,
 Franklin,Massachusetts,,,2020-01-23,0,0,NaN
 Franklin,Massachusetts,,,2020-01-24,0,0,NaN
@@ -371,6 +376,7 @@ Franklin,Massachusetts,,,2020-03-20,1,0,0
 Franklin,Massachusetts,,,2020-03-21,2,1,100
 Franklin,Massachusetts,,,2020-03-22,2,0,0
 Franklin,Massachusetts,,,2020-03-23,2,0,0
+Franklin,Massachusetts,,,2020-03-24,5,3,150
 Hampden,Massachusetts,,,2020-01-22,0,,
 Hampden,Massachusetts,,,2020-01-23,0,0,NaN
 Hampden,Massachusetts,,,2020-01-24,0,0,NaN
@@ -433,6 +439,7 @@ Hampden,Massachusetts,,,2020-03-20,3,0,0
 Hampden,Massachusetts,,,2020-03-21,9,6,200
 Hampden,Massachusetts,,,2020-03-22,12,3,33.33
 Hampden,Massachusetts,,,2020-03-23,15,3,25
+Hampden,Massachusetts,,,2020-03-24,24,9,60
 Hampshire,Massachusetts,,,2020-01-22,0,,
 Hampshire,Massachusetts,,,2020-01-23,0,0,NaN
 Hampshire,Massachusetts,,,2020-01-24,0,0,NaN
@@ -495,6 +502,7 @@ Hampshire,Massachusetts,,,2020-03-20,2,1,100
 Hampshire,Massachusetts,,,2020-03-21,2,0,0
 Hampshire,Massachusetts,,,2020-03-22,12,10,500
 Hampshire,Massachusetts,,,2020-03-23,6,-6,-50
+Hampshire,Massachusetts,,,2020-03-24,8,2,33.33
 Massachusetts Total,Massachusetts,,,2020-01-22,0,,
 Massachusetts Total,Massachusetts,,,2020-01-23,0,0,NaN
 Massachusetts Total,Massachusetts,,,2020-01-24,0,0,NaN
@@ -557,6 +565,7 @@ Massachusetts Total,Massachusetts,,,2020-03-20,413,85,25.91
 Massachusetts Total,Massachusetts,,,2020-03-21,525,112,27.12
 Massachusetts Total,Massachusetts,,,2020-03-22,646,121,23.05
 Massachusetts Total,Massachusetts,,,2020-03-23,777,131,20.28
+Massachusetts Total,Massachusetts,,,2020-03-24,1159,382,49.16
 Middlesex,Massachusetts,42.4672,-71.2874,2020-01-22,0,,
 Middlesex,Massachusetts,42.4672,-71.2874,2020-01-23,0,0,NaN
 Middlesex,Massachusetts,42.4672,-71.2874,2020-01-24,0,0,NaN
@@ -619,6 +628,7 @@ Middlesex,Massachusetts,42.4672,-71.2874,2020-03-20,144,25,21.01
 Middlesex,Massachusetts,42.4672,-71.2874,2020-03-21,177,33,22.92
 Middlesex,Massachusetts,42.4672,-71.2874,2020-03-22,199,22,12.43
 Middlesex,Massachusetts,42.4672,-71.2874,2020-03-23,232,33,16.58
+Middlesex,Massachusetts,42.4672,-71.2874,2020-03-24,304,72,31.03
 Norfolk,Massachusetts,42.1767,-71.1449,2020-01-22,0,,
 Norfolk,Massachusetts,42.1767,-71.1449,2020-01-23,0,0,NaN
 Norfolk,Massachusetts,42.1767,-71.1449,2020-01-24,0,0,NaN
@@ -681,6 +691,7 @@ Norfolk,Massachusetts,42.1767,-71.1449,2020-03-20,64,12,23.08
 Norfolk,Massachusetts,42.1767,-71.1449,2020-03-21,69,5,7.81
 Norfolk,Massachusetts,42.1767,-71.1449,2020-03-22,75,6,8.7
 Norfolk,Massachusetts,42.1767,-71.1449,2020-03-23,82,7,9.33
+Norfolk,Massachusetts,42.1767,-71.1449,2020-03-24,129,47,57.32
 Plymouth,Massachusetts,,,2020-01-22,0,,
 Plymouth,Massachusetts,,,2020-01-23,0,0,NaN
 Plymouth,Massachusetts,,,2020-01-24,0,0,NaN
@@ -743,6 +754,7 @@ Plymouth,Massachusetts,,,2020-03-20,11,6,120
 Plymouth,Massachusetts,,,2020-03-21,20,9,81.82
 Plymouth,Massachusetts,,,2020-03-22,25,5,25
 Plymouth,Massachusetts,,,2020-03-23,32,7,28
+Plymouth,Massachusetts,,,2020-03-24,64,32,100
 Suffolk,Massachusetts,42.3601,-71.0589,2020-01-22,0,,
 Suffolk,Massachusetts,42.3601,-71.0589,2020-01-23,0,0,NaN
 Suffolk,Massachusetts,42.3601,-71.0589,2020-01-24,0,0,NaN
@@ -805,6 +817,7 @@ Suffolk,Massachusetts,42.3601,-71.0589,2020-03-20,86,14,19.44
 Suffolk,Massachusetts,42.3601,-71.0589,2020-03-21,108,22,25.58
 Suffolk,Massachusetts,42.3601,-71.0589,2020-03-22,126,18,16.67
 Suffolk,Massachusetts,42.3601,-71.0589,2020-03-23,154,28,22.22
+Suffolk,Massachusetts,42.3601,-71.0589,2020-03-24,234,80,51.95
 Unknown,Massachusetts,,,2020-01-22,0,,
 Unknown,Massachusetts,,,2020-01-23,0,0,NaN
 Unknown,Massachusetts,,,2020-01-24,0,0,NaN
@@ -867,6 +880,7 @@ Unknown,Massachusetts,,,2020-03-20,19,6,46.15
 Unknown,Massachusetts,,,2020-03-21,26,7,36.84
 Unknown,Massachusetts,,,2020-03-22,34,8,30.77
 Unknown,Massachusetts,,,2020-03-23,57,23,67.65
+Unknown,Massachusetts,,,2020-03-24,90,33,57.89
 Worcester,Massachusetts,42.4097,-71.8571,2020-01-22,0,,
 Worcester,Massachusetts,42.4097,-71.8571,2020-01-23,0,0,NaN
 Worcester,Massachusetts,42.4097,-71.8571,2020-01-24,0,0,NaN
@@ -929,3 +943,4 @@ Worcester,Massachusetts,42.4097,-71.8571,2020-03-20,19,5,35.71
 Worcester,Massachusetts,42.4097,-71.8571,2020-03-21,24,5,26.32
 Worcester,Massachusetts,42.4097,-71.8571,2020-03-22,37,13,54.17
 Worcester,Massachusetts,42.4097,-71.8571,2020-03-23,42,5,13.51
+Worcester,Massachusetts,42.4097,-71.8571,2020-03-24,73,31,73.81
